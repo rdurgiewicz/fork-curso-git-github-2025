@@ -12,7 +12,6 @@ Além do nosso YouTube, se ligue no nosso site e agenda para ficar por dentro de
 
 [teomewhy.org](https://teomewhy.org/schecule)
 
-
 ## Fluxo de trabalho Git local
 
 01. git checkout -b <nova-branch>
